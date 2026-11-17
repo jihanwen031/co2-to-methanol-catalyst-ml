@@ -1,0 +1,15 @@
+/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.xlsx
+*.xls
+!/SI-dataset.xlsx
+/derived/
+/distribution/
+/STY_results/
+/Con_results/
+/ATE_results/
+/equilibrium_results/
+/encoding_sensitivity/
+/model_comparision_error_bar/
+/model_comparsion/

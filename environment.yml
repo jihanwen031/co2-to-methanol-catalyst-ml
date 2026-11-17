@@ -1,0 +1,21 @@
+name: methanol-catalyst-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.3
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - scikit-learn=1.5.1
+  - xgboost=2.1.1
+  - matplotlib=3.10.9
+  - seaborn=0.13.2
+  - shap=0.46.0
+  - cantera=3.0.1
+  - optuna=4.8.0
+  - joblib=1.4.2
+  - threadpoolctl=3.5.0
+  - openpyxl=3.1.5
+  - ipykernel=6.29.5
+  - jupyterlab=4.2.5
+  - nbconvert=7.16.4
+  - pillow=10.4.0
